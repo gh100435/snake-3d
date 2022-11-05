@@ -1,3 +1,9 @@
+/* 3D cube test */
+
+const canvas = document.createElement('canvas');
+document.body.append(canvas);
+
+/*
 class App {
     constructor() {
         this.canvas = document.createElement('canvas');
@@ -20,3 +26,4 @@ class App {
 window.onload = () => {
     window.app = new App();
 }
+*/
