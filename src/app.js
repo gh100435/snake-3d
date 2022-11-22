@@ -7,8 +7,6 @@ class App {
         this.resize();
         window.addEventListener('resize', this.resize.bind(this));
 
-        this.objects3d = [];
-
         this.animate();
     }
 
